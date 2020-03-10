@@ -5,11 +5,12 @@ do
   read -p "TULISKAN PASSWORD NYA : " siapa
 done 
 
-
+echo
 echo $green "+.)MASUK KE TOOLS BINGKU"
-read -p  "pilihmana :" player
+echo
+read -p "pilihmana:" bro
 
-if [ $player = + ] || [ $player = + ]
+if [ $bro = + ] || [ $bro = + ]
 then
 clear
 git clone https://github.com/RAJABING/bingku
