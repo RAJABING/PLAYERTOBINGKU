@@ -7,7 +7,7 @@ done
 
 
 echo $green "+.)MASUK KE TOOLS BINGKU"
-read -p  "pilihmana : " player
+read -p  "pilihmana :" player
 
 if [ $player = + ] || [ $player = + ]
 then
